@@ -1,0 +1,31 @@
+﻿id,name ,gender,ps,status,age,weight
+1,Mahir,M,HA,no,23,54
+2,Afnan,M,V,yes,23,68
+3,Bashar ,M,HA,yes,24,72
+4,Mahafuj,M,BP,no,25,76
+5,Tasin,M,HBP,no,26,70
+6,Shahid,M,HA,no,NaN,75
+7,Epu,M,V,yes,23,56
+8,Tuhin,M,BP,yes,NaN,57
+9,Ifaz,M,None,yes,25,70
+10,Salehin,M,BP,no,32,81
+11,Mahir,M,HA,no,23,54
+12,Afnan,M,V,yes,23,68
+13,Bashar ,M,HA,yes,24,72
+14,Mahafuj,M,BP,no,25,76
+15,Tasin,M,HBP,no,26,70
+16,Shahid,M,HA,no,NaN,75
+17,Epu,M,V,yes,23,56
+18,Tuhin,M,BP,yes,NaN,57
+19,Ifaz,M,None,yes,25,70
+20,Salehin,M,BP,no,32,81
+21,Mahir,M,HA,no,23,54
+22,Afnan,M,V,yes,23,68
+23,Bashar ,M,HA,yes,24,72
+24,Mahafuj,M,BP,no,25,76
+25,Tasin,M,HBP,no,26,70
+26,Shahid,M,HA,no,NaN,75
+27,Epu,M,V,yes,23,56
+28,Tuhin,M,BP,yes,NaN,57
+29,Ifaz,M,None,yes,25,70
+30,Salehin,M,BP,no,32,81
